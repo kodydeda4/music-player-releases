@@ -3,12 +3,12 @@
   <channel>
     <title>Music</title>
     <item>
-      <title>Version 1.0</title>
-      <pubDate>Mon, 22 Jun 2026 01:17:37 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <title>Version 1.2</title>
+      <pubDate>Tue, 23 Jun 2026 08:42:43 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/kodydeda4/music-player-releases/releases/download/v1.0.5/Music.zip" sparkle:edSignature="oqCAyBFxAD0xPvYZoEH6IL1zYTw3otsBPgc1RZfHHKVdSaSucMcYPvlvHkjhAxokxINO0O4mTHF8pPO0eG84BQ==" length="3182210" type="application/octet-stream"/>
+      <enclosure url="https://github.com/kodydeda4/music-player-releases/releases/download/v1.2.0/Music.zip" sparkle:edSignature="gU1yJrW80ZbHeZach3bzFrdTEBnPxAPhwxd4HziWU1H7Rr6pgRdqEfJLdZdL1FQqAygJZfwbLEabG43NnYhOCQ==" length="7092138" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
